@@ -18,14 +18,17 @@
 
 9. Develop a Gauge chart to display the average rating. For movie distribution across genre groups, use a Stacked bar chart. Create a DAX measure for the average rating and a Decades group for the Year column.
 
-10. Employ a Clustered column chart to visualize user distribution across age groups based on gender. Utilize a Map chart with bubbles to indicate user locations. Classify users into age groups and impute missing ages.
+ ![Page 1](https://github.com/Swetha-Reddy-Thumma/Power-BI-Projects/assets/168033156/452f2f2c-6199-48d2-b6a5-2bd9a81f27d5)
 
-11. Use a Matrix visual to visualize average ratings across professions and age groups. Include slicers for decade and occupation.
 
-12. Create a Treemap to visualize the Top N Movies and Genres, with Occupation and User Age slicers. Utilize buttons to toggle between the two charts using bookmarks.
+11. Employ a Clustered column chart to visualize user distribution across age groups based on gender. Utilize a Map chart with bubbles to indicate user locations. Classify users into age groups and impute missing ages.
 
-13. Develop a Scatterplot between user age group and average rating, with bubble size indicating the number of users. For movie average ratings across years, use a Bar chart with analytics features to show average ratings across genres. Include slicers for decade and genre.
+12. Use a Matrix visual to visualize average ratings across professions and age groups. Include slicers for decade and occupation.
+![Page 2](https://github.com/Swetha-Reddy-Thumma/Power-BI-Projects/assets/168033156/f5db52a6-3b3e-41f9-9a85-3ef46a13a093)
+
+13. Create a Treemap to visualize the Top N Movies and Genres, with Occupation and User Age slicers. Utilize buttons to toggle between the two charts using bookmarks.
+
+14. Develop a Scatterplot between user age group and average rating, with bubble size indicating the number of users. For movie average ratings across years, use a Bar chart with analytics features to show average ratings across genres. Include slicers for decade and genre.
+![Page 3](https://github.com/Swetha-Reddy-Thumma/Power-BI-Projects/assets/168033156/98a0fa99-13a8-49d0-96bf-d768c622c907)
 
 Ensure to include relevant slicers, filters, bookmarks, formatting, and navigation features to enhance the report.
-
-![](Movie%20Lens.pdf)
