@@ -28,4 +28,4 @@
 
 Ensure to include relevant slicers, filters, bookmarks, formatting, and navigation features to enhance the report.
 
-![](MovieLens.pdf)
+![](Movie%20Lens.pdf)
